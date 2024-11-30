@@ -1,0 +1,76 @@
+{
+    "name": "Aetherswap V1 Testnet List",
+    "timestamp": "2024-11-08T17:00:00.000Z",
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmcuVdT4kwXzviJyS4HsZStkfcwVWBagGT94A5wFCtkCT7",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "name": "Wrapped Ether",
+            "address": "0x22f92e5a6219bEf9Aa445EBAfBeB498d2EAdBF01",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 233,
+            "logoURI": "https://gateway.pinata.cloud/ipfs/QmYLHapU2BQZeEdGnFZeQcAJ3fLUw76QUwwair7EHuxGdo"
+        },
+        {
+            "name": "DAI Stablecoin",
+            "address": "0xa17F1C51A74a4e2911bE2f53098daaE8dba101bc",
+            "symbol": "DAI",
+            "decimals": 18,
+            "chainId": 233,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        },
+        {
+            "name": "Loopswap",
+            "address": "0x8aa037b6745E49DD543dEEFee330268D479ED92B",
+            "symbol": "LOOP",
+            "decimals": 18,
+            "chainId": 233,
+            "logoURI": "https://gateway.pinata.cloud/ipfs/Qmc4fGJfzdpmU7N8DEukYSDbaNwptUfW51d4ycgw8g6PhR"
+        },
+        {
+            "name": "Tether",
+            "address": "0x28Bd11d6ce090Ec2456Ea231b4f97F480F01AFD7",
+            "symbol": "USDT",
+            "decimals": 6,
+            "chainId": 233,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "name": "USD Coin",
+            "address": "0xb35E9202063Dd310f850622B2218a90dFa83be6e",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 233,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "name": "Mock ERN",
+            "address": "0x57465a571eBa0BD6Eb1bCDB0a746cE447F1B0F8e",
+            "symbol": "ERN",
+            "decimals": 18,
+            "chainId": 233,
+            "logoURI": "https://gateway.pinata.cloud/ipfs/QmPA8BNoDR7mz4fm9H1CSZBs5GGkTTfaQdv9wjswmX8P4H"
+        },
+        {
+            "name": "Meme Token",
+            "address": "0x794B6c2D2753a4603bf207Acc15aB4338cE53EcA",
+            "symbol": "MEME",
+            "decimals": 18,
+            "chainId": 233,
+            "logoURI": "https://gateway.pinata.cloud/ipfs/QmaxmK8UY7KiCiLJvZU4FkaKeAUF9dBKCKZz22vt7R1L4d"
+        },
+        {
+            "name": "Wrapped Bitcoin",
+            "address": "0x5A7d464bA4731C9aF3604DBa1fb558a237E37EC8",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "chainId": 233,
+            "logoURI": "https://assets.coingecko.com/coins/images/32207/standard/wrapped_bitcoin_wbtc.png?1696750238"
+        }
+    ]
+}
